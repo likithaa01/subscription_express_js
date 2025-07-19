@@ -75,5 +75,4 @@ subscription_express_js/
 git clone https://github.com/likithaa01/subscription_express_js.git
 cd subscription_express_js
 
-install Dependencies
-npm install
+
